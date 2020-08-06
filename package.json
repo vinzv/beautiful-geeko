@@ -1,15 +1,15 @@
 {
-  "name": "beautiful-ghost",
-  "description": "Ghost porting of 'Beautiful Jekyll' theme",
-  "homepage": "https://github.com/boh717/beautiful-ghost",
+  "name": "beautiful-geeko",
+  "description": "Ghost porting of 'Beautiful Jekyll' theme, adapted for openSUSE",
+  "homepage": "https://github.com/vinzv/beautiful-geeko",
   "version": "1.1.0",
   "engines": {
     "ghost": ">=1.0.0"
   },
   "license": "MIT",
   "author": {
-    "name": "Alberto Coletta",
-    "email": "boh@slacky.it"
+    "name": "Vinzenz Vietzke",
+    "email": "vinz@vinzv.de"
   },
   "config": {
     "posts_per_page": 5
